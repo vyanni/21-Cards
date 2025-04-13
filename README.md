@@ -4,7 +4,7 @@
 The game is my submission of the 21-card game for PointClickCare's Early Tech Talent Incubator Program. 
 21 Cards was made using the Unity game engine, written in C#. 
 
-# Game Rules
+## Game Rules
 It's a single-player game, where the player competes with the AI dealer.
 
 Players attempt to collect as many points as they can to have a bigger hand than the dealer without going over 21.
