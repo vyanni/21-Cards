@@ -24,10 +24,16 @@ The goal of the game is to attempt to collect as many points as they can to have
 
 ## Game Set-Up
 ### Download Set-up
-1. Navigate into the **"FullBuild"** folder, there'll be both the regular folder as well as **the zipped folder**, both **named "21Cards"** to download and install. 
-2. Download the zip folder on to your PC, though the game was **built for Windows**.
+1. Click the link here [Download 21 Cards](https://github.com/vyanni/PCC=Program-Submission/FullBuild/21Cards.zip)
+2. This downloads a **zipped folder**,  **named "21Cards"** to download and install, though the game was **built for Windows**.
 3. Extract the zipped folder, then go into the newly extracted folder.
 4. Open the file **"21cards.exe"**, which opens the game!
+
+## Respoitory Navigation
+- "Assets" contain all the images, sound effects, and prefabs used in the game
+- "FullBuild" has both the standard and zipped folder of the full game itself, which can download if the link doesn't work
+- "src" holds all of the scripts used in the game
+- "Miscallaneous" holds all of the extra Unity folders and files, which are used in the background
 
 ## Game Demonstrations
 ![Screenshot](Assets/GameDemoScreenshots/TitleScreenDemo.png)
