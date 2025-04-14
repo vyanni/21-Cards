@@ -30,7 +30,7 @@ The goal of the game is to attempt to collect as many points as they can to have
 4. Extract the zipped folder, then go into the newly extracted folder.
 5. Open the file **"21cards.exe"**, which opens the game!
 
-## Respoitory Navigation
+## Repository Navigation
 - "Assets" contain all the images, sound effects, and prefabs used in the game
 - "FullBuild" has both the standard and zipped folder of the full game itself, which can download if the link doesn't work
 - "src" holds all of the scripts used in the game
