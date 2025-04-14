@@ -24,10 +24,11 @@ The goal of the game is to attempt to collect as many points as they can to have
 
 ## Game Set-Up
 ### Download Set-up
-1. Click the link here: ([21 Cards Download Link](https://github.com/vyanni/raw/main/PCC-Program-Submission/FullBuild/21Cards.zip), this link is directly from the "FullBuild" folder on this repository.
-2. This downloads a **zipped folder**,  **named "21Cards"** to download and install, though the game was **built for Windows**.
-3. Extract the zipped folder, then go into the newly extracted folder.
-4. Open the file **"21cards.exe"**, which opens the game!
+1. Navigate into the **"FullBuild"** folder, there'll be both the regular folder as well as **the zipped folder**, both **named "21Cards"** to download and install.
+  (Click on the zip file in the folder, then go in the top right corner and press "Download raw file".
+3. Download the zip folder on to your PC, though the game was **built for Windows**.
+4. Extract the zipped folder, then go into the newly extracted folder.
+5. Open the file **"21cards.exe"**, which opens the game!
 
 ## Respoitory Navigation
 - "Assets" contain all the images, sound effects, and prefabs used in the game
