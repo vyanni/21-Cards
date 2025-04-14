@@ -17,7 +17,7 @@ The goal of the game is to attempt to collect as many points as they can to have
 - If either the dealer or the player goes over 21, their opponent automatically wins. If either get exactly 21, _they win automatically_.
 - Aces are versatile, and can be _either worth a 1 or 11_, depending on the player's choice, unless their hand is already greater than 11, where it automatically beocomes 1.
 
-##Game Controls
+## Game Controls
 - Press **Tab** to draw a card from the deck or press the in-game _"Draw"_ button which can be used with the mouse as well.
 - Press **Shift** to draw a card from the deck or press the in-game _"Stay"_ button which can be used with the mouse as well.
 - Press **Escape** to pause the game, and quit from there, or wait until the end of the round, and the game will ask if you'd like to quit.
