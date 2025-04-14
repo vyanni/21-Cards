@@ -3,7 +3,7 @@
 By Vianney Susanto
 ---
 ## Introduction
-This repository includes = my submission of the 21-card game for **PointClickCare's Early Tech Talent Incubator Program**. 
+This repository includes my submission of the 21-card game for **PointClickCare's Early Tech Talent Incubator Program**. 
 _21 Cards_ was made using the Unity game engine, written in C#. 
 
 ## Game Rules
