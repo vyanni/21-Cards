@@ -24,7 +24,7 @@ The goal of the game is to attempt to collect as many points as they can to have
 
 ## Game Set-Up
 ### Download Set-up
-1. Click the link here [Download 21 Cards](https://github.com/vyanni/PCC=Program-Submission/FullBuild/21Cards.zip)
+1. Click the link here [Download 21 Cards](https://github.com/vyanni/PCC-Program-Submission/FullBuild/21Cards.zip)
 2. This downloads a **zipped folder**,  **named "21Cards"** to download and install, though the game was **built for Windows**.
 3. Extract the zipped folder, then go into the newly extracted folder.
 4. Open the file **"21cards.exe"**, which opens the game!
