@@ -1,10 +1,10 @@
-# PCC-Program-Submission - Unity 21
+# PCC-Program-Submission - 21 Cards
 
 By Vianney Susanto
 ---
 ## Introduction
 This repository includes my submission of the 21-card game for **PointClickCare's Early Tech Talent Incubator Program**. 
-_21 Cards_ was made using the Unity game engine, written in C#. 
+21 Cards was made using the Unity game engine, written in C#. 
 
 ## Game Rules
 It's a _single-player game_, where the player competes with the AI dealer. 
