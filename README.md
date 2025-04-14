@@ -29,8 +29,8 @@ The goal of the game is to attempt to collect as many points as they can to have
 4. Open the file **"21cards.exe"**, which opens the game!
 
 ## Game Demonstrations
-![Screenshot](Assets/GameDemoScreenshots/TitleScreenDemo)
+![Screenshot](Assets/GameDemoScreenshots/TitleScreenDemo.png)
 
-![Screenshot](Assets/GameDemoScreenshots/AceChoiceDemo)
+![Screenshot](Assets/GameDemoScreenshots/AceChoiceDemo.png)
 
-![Screenshot](Assets/GameDemoScreenshots/Perfect21Demo)
+![Screenshot](Assets/GameDemoScreenshots/Perfect21Demo.png)
